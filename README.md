@@ -1,9 +1,9 @@
 # SpaceInvader
 * The game includes: 
-one spaceship
-four rows of invaders with 9 invaders in each row
-spaceship bullets
-invader bullets
+one spaceship, 
+four rows of invaders with 9 invaders in each row, 
+spaceship bullets, 
+invader bullets.
 
 * Press the spacae bar to fire the bullets from the spaceship.  
 * Spaceship bullets move vertically (bottom to top) at a steady speed. When the spaceship reaches the edge of the scene then  the spaceship stops moving until the user changes the spaceships direction and then the spaceship begins to move again.
