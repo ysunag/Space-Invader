@@ -1,4 +1,4 @@
-# SpaceInvader
+# Space Invader
 * The game includes: 
 one spaceship, 
 four rows of invaders with 9 invaders in each row, 
